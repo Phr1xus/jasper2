@@ -1,7 +1,7 @@
 ---
 layout: page
 current: about
-title: About
+title: Antalya Anatolian High School Unesco Club
 navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
